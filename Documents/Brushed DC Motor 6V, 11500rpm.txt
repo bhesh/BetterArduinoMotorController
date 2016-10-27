@@ -1,0 +1,10 @@
+Operation Voltage of 3 - 12 V
+6 V free-run speed of 11,500 RPM
+Free-run current of 70 mA
+Shaft diameter: 2 mm
+Free-run speed (6V): 11500 rpm
+Free-run current (6V): 70 mA
+Stall current (6V): 800 mA
+Size: 25 x 15 x 20 mm
+Weight: 18 g
+Shaft Diameter: 2 mm
